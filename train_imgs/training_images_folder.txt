@@ -1,0 +1,1 @@
+Place your pristine color images in PNG format for training the end-to-end architecture / building the natural model here. I used 900 images of the DIV2K dataset for this purpose. Please refer to our paper for more details.

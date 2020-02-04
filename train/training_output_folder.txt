@@ -1,0 +1,1 @@
+The checkpoints, logs, etc. while training the end-to-end architecture get written to this folder. You can use tensorboard to monitor training progress by setting the logs location to this folder.
