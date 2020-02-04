@@ -6,5 +6,5 @@ Please cite our [paper](https://arxiv.org/pdf/1911.11903) if you use the code in
 
 # Guidelines
 
-1. This project uses the end-to-end compression paper code available [here](https://github.com/tensorflow/compression). The contents of this repo should be placed inside the "examples" folder of the end-to-end compression [repo](https://github.com/tensorflow/compression).
+1. This project uses the end-to-end compression paper code available [here](https://github.com/tensorflow/compression). The contents of this repo should be placed inside the [examples](https://github.com/tensorflow/compression/tree/master/examples) folder of the end-to-end compression [repo](https://github.com/tensorflow/compression).
 2. The [bls2017.py](https://github.com/subhayanmukherjee/deepiqa/blob/master/bls2017.py) script of this repo has the code changes required to remove the rate-distortion term from the loss function of the [bls2017.py](https://github.com/tensorflow/compression/blob/master/examples/bls2017.py) script of the end-to-end compression [repo](https://github.com/tensorflow/compression), and few other changes, which should be ensured.
